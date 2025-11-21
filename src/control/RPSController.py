@@ -49,7 +49,7 @@ class RPSController:
         try:
             if self.mode == "1":
                 # 使用新的简化版预测器
-                from solve.solve1 import SimpleRPSPredictor
+                from src.solve.solve1 import SimpleRPSPredictor
                 self.processor = SimpleRPSPredictor(self.filename)
                 print("已加载简化版神经网络预测器 (模式1)")
 

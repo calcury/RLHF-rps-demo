@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "created_date": "2025-11-21T10:47:47.755695",
+    "total_games": 20,
+    "computer_wins": 7,
+    "user_wins": 8,
+    "draws": 5,
+    "last_updated": "2025-11-21T10:47:47.776518",
+    "version": "1.0"
+  },
+  "game_records": [
+    {
+      "user_choice": "scissors",
+      "computer_choice": "scissors",
+      "result": "draw",
+      "timestamp": "2025-11-21T10:47:47.757104"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "paper",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.758014"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "paper",
+      "result": "draw",
+      "timestamp": "2025-11-21T10:47:47.759049"
+    },
+    {
+      "user_choice": "rock",
+      "computer_choice": "rock",
+      "result": "draw",
+      "timestamp": "2025-11-21T10:47:47.759943"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "rock",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.760742"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.762224"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.763311"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "rock",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.764097"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "paper",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.764886"
+    },
+    {
+      "user_choice": "rock",
+      "computer_choice": "paper",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.765712"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.766855"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.767600"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "rock",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.768783"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "rock",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.769577"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "paper",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.770440"
+    },
+    {
+      "user_choice": "rock",
+      "computer_choice": "rock",
+      "result": "draw",
+      "timestamp": "2025-11-21T10:47:47.772005"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "rock",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.773046"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "paper",
+      "result": "user_win",
+      "timestamp": "2025-11-21T10:47:47.773869"
+    },
+    {
+      "user_choice": "scissors",
+      "computer_choice": "scissors",
+      "result": "draw",
+      "timestamp": "2025-11-21T10:47:47.774763"
+    },
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:47:47.776262"
+    }
+  ]
+}

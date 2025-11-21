@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "created_date": "2025-11-21T10:48:37.489156",
+    "total_games": 1,
+    "computer_wins": 1,
+    "user_wins": 0,
+    "draws": 0,
+    "last_updated": "2025-11-21T10:48:45.333987",
+    "version": "1.0"
+  },
+  "game_records": [
+    {
+      "user_choice": "paper",
+      "computer_choice": "scissors",
+      "result": "computer_win",
+      "timestamp": "2025-11-21T10:48:45.333393"
+    }
+  ]
+}
